@@ -42,8 +42,8 @@ A list of resources for standards and semantics used in modern WordPress develop
 ## Recommendations
 * https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/
 
-## NOTICES:
+## NOTICES
 * Learning resources provided above are just a starting point. You can (and you should) extend you knowledge by learning from multiple resources.
-* WP PHP Coding Standard recommends using of array() over [] but I would recommend second one in our projects.
+* WP PHP Coding Standard recommends a usage of array() over [] but I would recommend second one in our projects.
 * WordPress Accessibility Coding Standards can be ignored for now.
 * WordpPress and psr-12 PHP coding standarts may have some conflicts. If you notice one, or in doubt - ask so we can accept one of them.
