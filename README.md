@@ -22,6 +22,9 @@ A list of resources for standards and semantics used in modern WordPress develop
 ## Wordpress Coding Standards
 * https://developer.wordpress.org/coding-standards/wordpress-coding-standards/
 
+## Laravel Coding standards
+* https://spatie.be/guidelines/laravel-php
+
 ## GitHub
 * https://guides.github.com/
 
