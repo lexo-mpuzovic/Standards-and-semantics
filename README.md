@@ -41,6 +41,7 @@ A list of resources for standards and semantics used in modern WordPress develop
 
 ## Recommendations
 * https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/
+* Collection of cheatsheets https://devhints.io/
 
 ## NOTICES
 * Learning resources provided above are just a starting point. You can (and you should) extend you knowledge by learning from multiple resources.
